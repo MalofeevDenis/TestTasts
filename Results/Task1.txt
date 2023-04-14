@@ -1,0 +1,61 @@
+null
+{"activity":"Mow your lawn","type":"busywork","participants":1,"price":0.1,"link":"","key":"3590127","accessibility":0.3}
+{"activity":"Take a bubble bath","type":"relaxation","participants":1,"price":0.15,"link":"","key":"2581372","accessibility":0.1}
+{"activity":"Wash your car","type":"busywork","participants":1,"price":0.05,"link":"","key":"1017771","accessibility":0.15}
+{"activity":"Bake pastries for you and your neighbor","type":"cooking","participants":1,"price":0.4,"link":"","key":"8125168","accessibility":0.3}
+{"activity":"Play basketball with a group of friends","type":"social","participants":5,"price":0,"link":"","key":"8683473","accessibility":0.7}
+{"activity":"Learn the periodic table","type":"education","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Periodic_table","key":"3621244","accessibility":0.6}
+{"activity":"Catch up on world news","type":"recreational","participants":1,"price":0.05,"link":"","key":"6596257","accessibility":0.07}
+{"activity":"Listen to a new podcast","type":"relaxation","participants":1,"price":0.05,"link":"","key":"4124860","accessibility":0.12}
+{"activity":"Make a budget","type":"busywork","participants":1,"price":0,"link":"","key":"4379552","accessibility":0.1}
+{"activity":"Go to the gym","type":"recreational","participants":1,"price":0.2,"link":"","key":"4387026","accessibility":0.1}
+{"activity":"Invite some friends over for a game night","type":"social","participants":4,"price":0,"link":"","key":"6613428","accessibility":0.2}
+{"activity":"Take your dog on a walk","type":"relaxation","participants":1,"price":0,"link":"","key":"9318514","accessibility":0.2}
+{"activity":"Donate blood at a local blood center","type":"charity","participants":1,"price":0,"link":"https://www.redcross.org/give-blood","key":"6509779","accessibility":0.35}
+{"activity":"Shred old documents you don't need anymore","type":"busywork","participants":1,"price":0,"link":"","key":"2430066","accessibility":0}
+{"activity":"Play a video game","type":"recreational","participants":1,"price":0,"link":"","key":"5534113","accessibility":0}
+{"activity":"Make bread from scratch","type":"cooking","participants":1,"price":0.2,"link":"","key":"4809815","accessibility":0.2}
+{"activity":"Learn how to beatbox","type":"recreational","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Beatboxing","key":"8731710","accessibility":1}
+{"activity":"Teach your dog a new trick","type":"relaxation","participants":1,"price":0.05,"link":"","key":"1668223","accessibility":0.15}
+{"activity":"Bake a pie with some friends","type":"cooking","participants":3,"price":0.3,"link":"","key":"3141592","accessibility":0.3}
+{"activity":"Do something nice for someone you care about","type":"social","participants":1,"price":0,"link":"","key":"8321894","accessibility":0.1}
+{"activity":"Watch a movie you'd never usually watch","type":"relaxation","participants":1,"price":0.15,"link":"","key":"9212950","accessibility":0.15}
+{"activity":"Do a jigsaw puzzle","type":"recreational","participants":1,"price":0.1,"link":"https://en.wikipedia.org/wiki/Jigsaw_puzzle","key":"8550768","accessibility":1}
+{"activity":"Take a spontaneous road trip with some friends","type":"social","participants":4,"price":0.2,"link":"","key":"2085321","accessibility":0.3}
+{"activity":"Memorize the fifty states and their capitals","type":"education","participants":1,"price":0,"link":"","key":"4179309","accessibility":0}
+{"activity":"Write a note of appreciation to someone","type":"social","participants":1,"price":0,"link":"","key":"1770521","accessibility":0}
+{"activity":"Do something nice for someone you care about","type":"social","participants":1,"price":0,"link":"","key":"8321894","accessibility":0.1}
+{"activity":"Teach your dog a new trick","type":"relaxation","participants":1,"price":0.05,"link":"","key":"1668223","accessibility":0.15}
+{"activity":"Go to a nail salon","type":"relaxation","participants":1,"price":0.4,"link":"","key":"7526324","accessibility":0.5}
+{"activity":"Mow your neighbor's lawn","type":"charity","participants":1,"price":0,"link":"","key":"1303906","accessibility":0.2}
+{"activity":"Donate blood at a local blood center","type":"charity","participants":1,"price":0,"link":"https://www.redcross.org/give-blood","key":"6509779","accessibility":0.35}
+{"activity":"Listen to your favorite album","type":"music","participants":1,"price":0.08,"link":"","key":"3136729","accessibility":0.2}
+{"activity":"Teach your dog a new trick","type":"relaxation","participants":1,"price":0.05,"link":"","key":"1668223","accessibility":0.15}
+{"activity":"Watch the sunset or the sunrise","type":"recreational","participants":1,"price":0,"link":"","key":"4748214","accessibility":1}
+{"activity":"Make homemade ice cream","type":"cooking","participants":1,"price":0.2,"link":"","key":"3818400","accessibility":0.2}
+{"activity":"Invite some friends over for a game night","type":"social","participants":4,"price":0,"link":"","key":"6613428","accessibility":0.2}
+{"activity":"Conquer one of your fears","type":"recreational","participants":1,"price":0.1,"link":"","key":"8344539","accessibility":0.1}
+{"activity":"Learn Javascript","type":"education","participants":1,"price":0,"link":"","key":"3469378","accessibility":0.9}
+{"activity":"Create and follow a savings plan","type":"busywork","participants":1,"price":0,"link":"","key":"9366464","accessibility":0.2}
+{"activity":"Organize your movie collection","type":"busywork","participants":1,"price":0,"link":"","key":"6378359","accessibility":0}
+{"activity":"Write a thank you letter to an influential person in your life","type":"social","participants":1,"price":0,"link":"","key":"4101229","accessibility":0.1}
+{"activity":"Start a daily journal","type":"relaxation","participants":1,"price":0,"link":"","key":"8779876","accessibility":0}
+{"activity":"Draw something interesting","type":"recreational","participants":1,"price":0,"link":"","key":"8033599","accessibility":0}
+{"activity":"Learn how the internet works","type":"education","participants":1,"price":0,"link":"","key":"9414706","accessibility":0.1}
+{"activity":"Learn to play a new instrument","type":"music","participants":1,"price":0.55,"link":"","key":"3192099","accessibility":0.6}
+{"activity":"Volunteer and help out at a senior center","type":"charity","participants":1,"price":0,"link":"","key":"3920096","accessibility":0.1}
+{"activity":"Go for a run","type":"recreational","participants":1,"price":0,"link":"","key":"6852505","accessibility":0.9}
+{"activity":"Look at your finances and find one way to save money","type":"busywork","participants":1,"price":0,"link":"","key":"5977626","accessibility":1}
+{"activity":"Go to a music festival with some friends","type":"social","participants":4,"price":0.4,"link":"","key":"6482790","accessibility":0.2}
+{"activity":"Fill out a basketball bracket","type":"recreational","participants":1,"price":0,"link":"","key":"7806284","accessibility":0.1}
+{"activity":"Have a paper airplane contest with some friends","type":"social","participants":4,"price":0.02,"link":"","key":"8557562","accessibility":0.05}
+{"activity":"Prepare a dish from a foreign culture","type":"cooking","participants":1,"price":0.2,"link":"","key":"8061754","accessibility":0.3}
+{"activity":"Bake pastries for you and your neighbor","type":"cooking","participants":1,"price":0.4,"link":"","key":"8125168","accessibility":0.3}
+{"activity":"Have a jam session with your friends","type":"music","participants":5,"price":0.1,"link":"","key":"2715253","accessibility":0.3}
+{"activity":"Configure two-factor authentication on your accounts","type":"busywork","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Multi-factor_authentication","key":"1572120","accessibility":0}
+{"activity":"Make a to-do list for your week","type":"busywork","participants":1,"price":0,"link":"","key":"5920481","accessibility":0.05}
+{"activity":"Think of a new business idea","type":"recreational","participants":1,"price":0,"link":"","key":"6808057","accessibility":0.05}
+{"activity":"Do something nice for someone you care about","type":"social","participants":1,"price":0,"link":"","key":"8321894","accessibility":0.1}
+{"activity":"Write a poem","type":"recreational","participants":1,"price":0,"link":"","key":"8688620","accessibility":0}
+{"activity":"Prepare a dish from a foreign culture","type":"cooking","participants":1,"price":0.2,"link":"","key":"8061754","accessibility":0.3}
+{"activity":"Write a list of things you are grateful for","type":"relaxation","participants":1,"price":0,"link":"","key":"2062010","accessibility":0}
