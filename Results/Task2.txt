@@ -1,0 +1,452 @@
+null,null,null
+Oriental Shorthair,,null
+Oriental Shorthair,,A cat's nose is as unique as a human's fingerprint.
+Pixie-bob,United States,A cat's nose is as unique as a human's fingerprint.
+Pixie-bob,United States,In 1987 cats overtook dogs as the number one pet in America.
+Australian Mist,Australia,In 1987 cats overtook dogs as the number one pet in America.
+Australian Mist,Australia,A cat can spend five or more hours a day grooming himself.
+Australian Mist,Australia,A cat can spend five or more hours a day grooming himself.
+Australian Mist,Australia,Tigers are excellent swimmers and do not avoid water.
+Chantilly-Tiffany,United States,Tigers are excellent swimmers and do not avoid water.
+Chantilly-Tiffany,United States,A cat usually has about 12 whiskers on each side of its face.
+Serengeti,United States,A cat usually has about 12 whiskers on each side of its face.
+Serengeti,United States,Baking chocolate is the most dangerous chocolate to your cat.
+Chantilly-Tiffany,United States,Baking chocolate is the most dangerous chocolate to your cat.
+Chantilly-Tiffany,United States,The Pilgrims were the first to introduce cats to North America.
+Brazilian Shorthair,Brazil,The Pilgrims were the first to introduce cats to North America.
+Brazilian Shorthair,Brazil,There are up to 60 million feral cats in the United States alone.
+Oregon Rex,United States,There are up to 60 million feral cats in the United States alone.
+Oregon Rex,United States,Owning a cat is actually proven to be beneficial for your health.
+Javanese,United States,Owning a cat is actually proven to be beneficial for your health.
+Javanese,United States,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Singapura,Singapore,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Singapura,Singapore,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Savannah,United States,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Savannah,United States,The technical term for a cat\u2019s hairball is a \u201cbezoar.\u201d
+Sokoke,Kenya,The technical term for a cat\u2019s hairball is a \u201cbezoar.\u201d
+Sokoke,Kenya,Cats control the outer ear using 32 muscles; humans use 6
+British Semi-longhair,United Kingdom,Cats control the outer ear using 32 muscles; humans use 6
+British Semi-longhair,United Kingdom,In 1987 cats overtook dogs as the number one pet in America.
+Cornish Rex,United Kingdom (England),In 1987 cats overtook dogs as the number one pet in America.
+Cornish Rex,United Kingdom (England),A cat can sprint at about thirty-one miles per hour.
+Karelian Bobtail,Western Russia,A cat can sprint at about thirty-one miles per hour.
+Karelian Bobtail,Western Russia,A cat's hearing is much more sensitive than humans and dogs.
+Karelian Bobtail,Western Russia,A cat's hearing is much more sensitive than humans and dogs.
+Karelian Bobtail,Western Russia,The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+Colorpoint Shorthair,,The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+Colorpoint Shorthair,,A cat's brain is more similar to a man's brain than that of a dog.
+Oregon Rex,United States,A cat's brain is more similar to a man's brain than that of a dog.
+Oregon Rex,United States,Normal body temperature for a cat is 102 degrees F.
+Maine Coon,United States,Normal body temperature for a cat is 102 degrees F.
+Maine Coon,United States,Many cats love having their forehead gently stroked.
+Munchkin,United States,Many cats love having their forehead gently stroked.
+Munchkin,United States,Cats bury their feces to cover their trails from predators.
+Dragon Li,China,Cats bury their feces to cover their trails from predators.
+Dragon Li,China,A cat lover is called an Ailurophilia (Greek: cat+lover).
+Ragdoll,United States,A cat lover is called an Ailurophilia (Greek: cat+lover).
+Ragdoll,United States,Cats have been domesticated for half as long as dogs have been.
+British Semi-longhair,United Kingdom,Cats have been domesticated for half as long as dogs have been.
+British Semi-longhair,United Kingdom,A cat can spend five or more hours a day grooming himself.
+Oriental Bicolor,,A cat can spend five or more hours a day grooming himself.
+Oriental Bicolor,,In 1987 cats overtook dogs as the number one pet in America.
+Somali,Somalia,In 1987 cats overtook dogs as the number one pet in America.
+Somali,Somalia,The average cat food meal is the equivalent to about five mice.
+Aegean,Greece,The average cat food meal is the equivalent to about five mice.
+Aegean,Greece,Cats see six times better in the dark and at night than humans.
+Mekong Bobtail,Russia,Cats see six times better in the dark and at night than humans.
+Mekong Bobtail,Russia,British cat owners spend roughly 550 million pounds yearly on cat food.
+American Bobtail,United States,British cat owners spend roughly 550 million pounds yearly on cat food.
+American Bobtail,United States,Florence Nightingale owned more than 60 cats in her lifetime.
+Norwegian Forest cat,Norway,Florence Nightingale owned more than 60 cats in her lifetime.
+Norwegian Forest cat,Norway,A cat's nose is as unique as a human's fingerprint.
+Exotic Shorthair,United States,A cat's nose is as unique as a human's fingerprint.
+Exotic Shorthair,United States,A cat will tremble or shiver when it is extreme pain.
+Tonkinese,Canada,A cat will tremble or shiver when it is extreme pain.
+Tonkinese,Canada,The average litter of kittens is between 2 - 6 kittens.
+Cyprus,Cyprus,The average litter of kittens is between 2 - 6 kittens.
+Cyprus,Cyprus,The cat has 500 skeletal muscles (humans have 650).
+Havana Brown,United Kingdom,The cat has 500 skeletal muscles (humans have 650).
+Havana Brown,United Kingdom,Cats make about 100 different sounds. Dogs make only about 10.
+Korat,Thailand,Cats make about 100 different sounds. Dogs make only about 10.
+Korat,Thailand,In 1987 cats overtook dogs as the number one pet in America.
+Sphynx,Canada,In 1987 cats overtook dogs as the number one pet in America.
+Sphynx,Canada,Cats bury their feces to cover their trails from predators.
+Pixie-bob,United States,Cats bury their feces to cover their trails from predators.
+Pixie-bob,United States,Kittens remain with their mother till the age of 9 weeks.
+PerFold\u00e6(Experimental Breed - WCF),"Unknown",Kittens remain with their mother till the age of 9 weeks.
+PerFold\u00e6(Experimental Breed - WCF),"Unknown",The leopard is the most widespread of all big cats.
+Brazilian Shorthair,Brazil,The leopard is the most widespread of all big cats.
+Brazilian Shorthair,Brazil,Cats have been domesticated for half as long as dogs have been.
+Sphynx,Canada,Cats have been domesticated for half as long as dogs have been.
+Sphynx,Canada,Kittens remain with their mother till the age of 9 weeks.
+Russian Blue,Russia,Kittens remain with their mother till the age of 9 weeks.
+Russian Blue,Russia,Cats' hearing is much more sensitive than humans and dogs.
+British Shorthair,United Kingdom,Cats' hearing is much more sensitive than humans and dogs.
+British Shorthair,United Kingdom,A cat lover is called an Ailurophilia (Greek: cat+lover).
+Ukrainian Levkoy,Ukraine,A cat lover is called an Ailurophilia (Greek: cat+lover).
+Ukrainian Levkoy,Ukraine,Florence Nightingale owned more than 60 cats in her lifetime.
+Napoleon,,Florence Nightingale owned more than 60 cats in her lifetime.
+Napoleon,,Cats have 300 million neurons; dogs have about 160 million
+Devon Rex,United Kingdom (England),Cats have 300 million neurons; dogs have about 160 million
+Devon Rex,United Kingdom (England),A cat will tremble or shiver when it is extreme pain.
+American Shorthair,United States,A cat will tremble or shiver when it is extreme pain.
+American Shorthair,United States,Tigers are excellent swimmers and do not avoid water.
+Chartreux,France,Tigers are excellent swimmers and do not avoid water.
+Chartreux,France,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Snowshoe,United States,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Snowshoe,United States,A cat's hearing is much more sensitive than humans and dogs.
+Thai Lilac,Thailand,A cat's hearing is much more sensitive than humans and dogs.
+Thai Lilac,Thailand,The leopard is the most widespread of all big cats.
+Egyptian Mau,Egypt,The leopard is the most widespread of all big cats.
+Egyptian Mau,Egypt,British cat owners spend roughly 550 million pounds yearly on cat food.
+Minskin,United States,British cat owners spend roughly 550 million pounds yearly on cat food.
+Minskin,United States,About 37% of American homes today have at least 1 cat.
+Serrade petit,France,About 37% of American homes today have at least 1 cat.
+Serrade petit,France,Baking chocolate is the most dangerous chocolate to your cat.
+Ocicat,United States,Baking chocolate is the most dangerous chocolate to your cat.
+Ocicat,United States,There are up to 60 million feral cats in the United States alone.
+Cymric or Manx Longhair,United Kingdom (Isle of Man),There are up to 60 million feral cats in the United States alone.
+Cymric or Manx Longhair,United Kingdom (Isle of Man),In 1987 cats overtook dogs as the number one pet in America.
+Javanese,United States,In 1987 cats overtook dogs as the number one pet in America.
+Javanese,United States,Cats see six times better in the dark and at night than humans.
+Javanese,United States,Cats see six times better in the dark and at night than humans.
+Javanese,United States,Fossil records from two million years ago show evidence of jaguars.
+American Bobtail,United States,Fossil records from two million years ago show evidence of jaguars.
+American Bobtail,United States,The first cat show was in 1871 at the Crystal Palace in London.
+Mekong Bobtail,Russia,The first cat show was in 1871 at the Crystal Palace in London.
+Mekong Bobtail,Russia,British cat owners spend roughly 550 million pounds yearly on cat food.
+Thai Lilac,Thailand,British cat owners spend roughly 550 million pounds yearly on cat food.
+Thai Lilac,Thailand,Cats only sweat through their paws and nowhere else on their body
+Havana Brown,United Kingdom,Cats only sweat through their paws and nowhere else on their body
+Havana Brown,United Kingdom,Cats have 300 million neurons; dogs have about 160 million
+Mekong Bobtail,Russia,Cats have 300 million neurons; dogs have about 160 million
+Mekong Bobtail,Russia,The leopard is the most widespread of all big cats.
+Oriental Bicolor,,The leopard is the most widespread of all big cats.
+Oriental Bicolor,,Neutering a cat extends its life span by two or three years.
+Exotic Shorthair,United States,Neutering a cat extends its life span by two or three years.
+Exotic Shorthair,United States,Today there are about 100 distinct breeds of the domestic cat.
+Chausie,France,Today there are about 100 distinct breeds of the domestic cat.
+Chausie,France,About 37% of American homes today have at least 1 cat.
+Chausie,France,About 37% of American homes today have at least 1 cat.
+Chausie,France,Neutering a cat extends its life span by two or three years.
+Turkish Van,developed in the United Kingdom (founding stock from Turkey),Neutering a cat extends its life span by two or three years.
+Turkish Van,developed in the United Kingdom (founding stock from Turkey),Cat bites are more likely to become infected than dog bites.
+Selkirk Rex,United States,Cat bites are more likely to become infected than dog bites.
+Selkirk Rex,United States,A cat can spend five or more hours a day grooming himself.
+Serrade petit,France,A cat can spend five or more hours a day grooming himself.
+Serrade petit,France,The Maine Coone is the only native American long haired breed.
+Ojos Azules,United States,The Maine Coone is the only native American long haired breed.
+Ojos Azules,United States,In 1987 cats overtook dogs as the number one pet in America.
+Lykoi,United States,In 1987 cats overtook dogs as the number one pet in America.
+Lykoi,United States,The average cat food meal is the equivalent to about five mice.
+Ocicat,United States,The average cat food meal is the equivalent to about five mice.
+Ocicat,United States,Many cats love having their forehead gently stroked.
+Savannah,United States,Many cats love having their forehead gently stroked.
+Savannah,United States,A healthy cat has a temperature between 38 and 39 degrees Celcius.
+Ojos Azules,United States,A healthy cat has a temperature between 38 and 39 degrees Celcius.
+Ojos Azules,United States,A cat will tremble or shiver when it is extreme pain.
+Cymric or Manx Longhair,United Kingdom (Isle of Man),A cat will tremble or shiver when it is extreme pain.
+Cymric or Manx Longhair,United Kingdom (Isle of Man),A cat will tremble or shiver when it is extreme pain.
+Ukrainian Levkoy,Ukraine,A cat will tremble or shiver when it is extreme pain.
+Ukrainian Levkoy,Ukraine,Today there are about 100 distinct breeds of the domestic cat.
+Chausie,France,Today there are about 100 distinct breeds of the domestic cat.
+Chausie,France,There are up to 60 million feral cats in the United States alone.
+Persian (Traditional Persian Cat),"Unknown",There are up to 60 million feral cats in the United States alone.
+Persian (Traditional Persian Cat),"Unknown",Normal body temperature for a cat is 102 degrees F.
+Savannah,United States,Normal body temperature for a cat is 102 degrees F.
+Savannah,United States,Many cats love having their forehead gently stroked.
+Colorpoint Shorthair,,Many cats love having their forehead gently stroked.
+Colorpoint Shorthair,,Normal body temperature for a cat is 102 degrees F.
+Siamese,Thailand,Normal body temperature for a cat is 102 degrees F.
+Siamese,Thailand,Cats only sweat through their paws and nowhere else on their body
+Foldex[4],"Unknown",Cats only sweat through their paws and nowhere else on their body
+Foldex[4],"Unknown",A healthy cat has a temperature between 38 and 39 degrees Celcius.
+Javanese,United States,A healthy cat has a temperature between 38 and 39 degrees Celcius.
+Javanese,United States,Tylenol and chocolate are both poisionous to cats.
+Snowshoe,United States,Tylenol and chocolate are both poisionous to cats.
+Snowshoe,United States,Tylenol and chocolate are both poisionous to cats.
+Singapura,Singapore,Tylenol and chocolate are both poisionous to cats.
+Singapura,Singapore,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Khao Manee,Thailand,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Khao Manee,Thailand,Today there are about 100 distinct breeds of the domestic cat.
+Pixie-bob,United States,Today there are about 100 distinct breeds of the domestic cat.
+Pixie-bob,United States,A cat's nose is as unique as a human's fingerprint.
+Manx,United Kingdom (Isle of Man),A cat's nose is as unique as a human's fingerprint.
+Manx,United Kingdom (Isle of Man),Cats only sweat through their paws and nowhere else on their body
+American Curl,United States,Cats only sweat through their paws and nowhere else on their body
+American Curl,United States,Florence Nightingale owned more than 60 cats in her lifetime.
+Tonkinese,Canada,Florence Nightingale owned more than 60 cats in her lifetime.
+Tonkinese,Canada,A cat's nose is as unique as a human's fingerprint.
+Snowshoe,United States,A cat's nose is as unique as a human's fingerprint.
+Snowshoe,United States,Fossil records from two million years ago show evidence of jaguars.
+Thai Lilac,Thailand,Fossil records from two million years ago show evidence of jaguars.
+Thai Lilac,Thailand,Neutering a cat extends its life span by two or three years.
+Russian Blue,Russia,Neutering a cat extends its life span by two or three years.
+Russian Blue,Russia,The cat has 500 skeletal muscles (humans have 650).
+Chausie,France,The cat has 500 skeletal muscles (humans have 650).
+Chausie,France,The Amur leopard is one of the most endangered animals in the world.
+Nebelung,United States,The Amur leopard is one of the most endangered animals in the world.
+Nebelung,United States,Normal body temperature for a cat is 102 degrees F.
+Oriental Longhair,,Normal body temperature for a cat is 102 degrees F.
+Oriental Longhair,,A cat will tremble or shiver when it is extreme pain.
+Egyptian Mau,Egypt,A cat will tremble or shiver when it is extreme pain.
+Egyptian Mau,Egypt,A cat will tremble or shiver when it is extreme pain.
+American Wirehair,United States,A cat will tremble or shiver when it is extreme pain.
+American Wirehair,United States,A cat's brain is more similar to a man's brain than that of a dog.
+Scottish Fold,United Kingdom (Scotland),A cat's brain is more similar to a man's brain than that of a dog.
+Scottish Fold,United Kingdom (Scotland),A cat will tremble or shiver when it is extreme pain.
+Burmilla,United Kingdom,A cat will tremble or shiver when it is extreme pain.
+Burmilla,United Kingdom,A cat will tremble or shiver when it is extreme pain.
+Russian Blue,Russia,A cat will tremble or shiver when it is extreme pain.
+Russian Blue,Russia,The average litter of kittens is between 2 - 6 kittens.
+American Wirehair,United States,The average litter of kittens is between 2 - 6 kittens.
+American Wirehair,United States,Cats only sweat through their paws and nowhere else on their body
+Arabian Mau,Arabian Peninsula,Cats only sweat through their paws and nowhere else on their body
+Arabian Mau,Arabian Peninsula,A healthy cat has a temperature between 38 and 39 degrees Celcius.
+Arabian Mau,Arabian Peninsula,A healthy cat has a temperature between 38 and 39 degrees Celcius.
+Arabian Mau,Arabian Peninsula,Neutering a cat extends its life span by two or three years.
+Ojos Azules,United States,Neutering a cat extends its life span by two or three years.
+Ojos Azules,United States,British cat owners spend roughly 550 million pounds yearly on cat food.
+Ojos Azules,United States,British cat owners spend roughly 550 million pounds yearly on cat food.
+Ojos Azules,United States,The cat's footpads absorb the shocks of the landing when the cat jumps.
+Balinese,developed in the United States (founding stock from Thailand),The cat's footpads absorb the shocks of the landing when the cat jumps.
+Balinese,developed in the United States (founding stock from Thailand),Tigers are excellent swimmers and do not avoid water.
+Raas,Indonesia,Tigers are excellent swimmers and do not avoid water.
+Raas,Indonesia,Cats' hearing is much more sensitive than humans and dogs.
+European Shorthair,Finland and Sweden,Cats' hearing is much more sensitive than humans and dogs.
+European Shorthair,Finland and Sweden,Ailurophile is the word cat lovers are officially called.
+Exotic Shorthair,United States,Ailurophile is the word cat lovers are officially called.
+Exotic Shorthair,United States,The average cat food meal is the equivalent to about five mice.
+Bombay,developed in the United States (founding stock from Asia),The average cat food meal is the equivalent to about five mice.
+Bombay,developed in the United States (founding stock from Asia),A cat will tremble or shiver when it is extreme pain.
+Suphalak,Thailand,A cat will tremble or shiver when it is extreme pain.
+Suphalak,Thailand,A cat will tremble or shiver when it is in extreme pain.
+LaPerm,United States,A cat will tremble or shiver when it is in extreme pain.
+LaPerm,United States,There are up to 60 million feral cats in the United States alone.
+Brazilian Shorthair,Brazil,There are up to 60 million feral cats in the United States alone.
+Brazilian Shorthair,Brazil,Cats make about 100 different sounds. Dogs make only about 10.
+Colorpoint Shorthair,,Cats make about 100 different sounds. Dogs make only about 10.
+Colorpoint Shorthair,,A healthy cat has a temperature between 38 and 39 degrees Celcius.
+American Wirehair,United States,A healthy cat has a temperature between 38 and 39 degrees Celcius.
+American Wirehair,United States,The average litter of kittens is between 2 - 6 kittens.
+Snowshoe,United States,The average litter of kittens is between 2 - 6 kittens.
+Snowshoe,United States,Kittens remain with their mother till the age of 9 weeks.
+Cyprus,Cyprus,Kittens remain with their mother till the age of 9 weeks.
+Cyprus,Cyprus,Cats see six times better in the dark and at night than humans.
+Oregon Rex,United States,Cats see six times better in the dark and at night than humans.
+Oregon Rex,United States,Cats bury their feces to cover their trails from predators.
+Highlander,United States,Cats bury their feces to cover their trails from predators.
+Highlander,United States,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Singapura,Singapore,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Singapura,Singapore,Kittens remain with their mother till the age of 9 weeks.
+Korat,Thailand,Kittens remain with their mother till the age of 9 weeks.
+Korat,Thailand,Cats have 300 million neurons; dogs have about 160 million
+American Curl,United States,Cats have 300 million neurons; dogs have about 160 million
+American Curl,United States,A cat will tremble or shiver when it is in extreme pain.
+Bengal,developed in the United States (founding stock from Asia),A cat will tremble or shiver when it is in extreme pain.
+Bengal,developed in the United States (founding stock from Asia),It is estimated that cats can make over 60 different sounds.
+Ocicat,United States,It is estimated that cats can make over 60 different sounds.
+Ocicat,United States,The Pilgrims were the first to introduce cats to North America.
+Javanese,United States,The Pilgrims were the first to introduce cats to North America.
+Javanese,United States,Kittens remain with their mother till the age of 9 weeks.
+Pixie-bob,United States,Kittens remain with their mother till the age of 9 weeks.
+Pixie-bob,United States,Fossil records from two million years ago show evidence of jaguars.
+Khao Manee,Thailand,Fossil records from two million years ago show evidence of jaguars.
+Khao Manee,Thailand,The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+Bengal,developed in the United States (founding stock from Asia),The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+Bengal,developed in the United States (founding stock from Asia),A cat can sprint at about thirty-one miles per hour.
+Balinese,developed in the United States (founding stock from Thailand),A cat can sprint at about thirty-one miles per hour.
+Balinese,developed in the United States (founding stock from Thailand),Fossil records from two million years ago show evidence of jaguars.
+Raas,Indonesia,Fossil records from two million years ago show evidence of jaguars.
+Raas,Indonesia,Normal body temperature for a cat is 102 degrees F.
+Siberian,Russia,Normal body temperature for a cat is 102 degrees F.
+Siberian,Russia,A cat will tremble or shiver when it is extreme pain.
+Australian Mist,Australia,A cat will tremble or shiver when it is extreme pain.
+Australian Mist,Australia,In 1987 cats overtook dogs as the number one pet in America.
+British Semi-longhair,United Kingdom,In 1987 cats overtook dogs as the number one pet in America.
+British Semi-longhair,United Kingdom,Many cats love having their forehead gently stroked.
+LaPerm,United States,Many cats love having their forehead gently stroked.
+LaPerm,United States,The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+American Shorthair,United States,The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+American Shorthair,United States,Cats only sweat through their paws and nowhere else on their body
+American Shorthair,United States,Cats only sweat through their paws and nowhere else on their body
+American Shorthair,United States,Today there are about 100 distinct breeds of the domestic cat.
+Foldex[4],"Unknown",Today there are about 100 distinct breeds of the domestic cat.
+Foldex[4],"Unknown",A cat can jump up to five times its own height in a single bound.
+Chartreux,France,A cat can jump up to five times its own height in a single bound.
+Chartreux,France,Kittens remain with their mother till the age of 9 weeks.
+Minskin,United States,Kittens remain with their mother till the age of 9 weeks.
+Minskin,United States,A cat will tremble or shiver when it is extreme pain.
+Ragamuffin,United States,A cat will tremble or shiver when it is extreme pain.
+Ragamuffin,United States,A cat's hearing is much more sensitive than humans and dogs.
+Peterbald,Russia,A cat's hearing is much more sensitive than humans and dogs.
+Peterbald,Russia,The technical term for a cat\u2019s hairball is a \u201cbezoar.\u201d
+Norwegian Forest cat,Norway,The technical term for a cat\u2019s hairball is a \u201cbezoar.\u201d
+Norwegian Forest cat,Norway,The first cat show was in 1871 at the Crystal Palace in London.
+British Longhair,United Kingdom,The first cat show was in 1871 at the Crystal Palace in London.
+British Longhair,United Kingdom,Baking chocolate is the most dangerous chocolate to your cat.
+Burmilla,United Kingdom,Baking chocolate is the most dangerous chocolate to your cat.
+Burmilla,United Kingdom,Tigers are excellent swimmers and do not avoid water.
+British Semi-longhair,United Kingdom,Tigers are excellent swimmers and do not avoid water.
+British Semi-longhair,United Kingdom,Normal body temperature for a cat is 102 degrees F.
+Egyptian Mau,Egypt,Normal body temperature for a cat is 102 degrees F.
+Egyptian Mau,Egypt,Cat bites are more likely to become infected than dog bites.
+American Wirehair,United States,Cat bites are more likely to become infected than dog bites.
+American Wirehair,United States,The leopard is the most widespread of all big cats.
+Ragdoll,United States,The leopard is the most widespread of all big cats.
+Ragdoll,United States,Kittens remain with their mother till the age of 9 weeks.
+Sokoke,Kenya,Kittens remain with their mother till the age of 9 weeks.
+Sokoke,Kenya,The leopard is the most widespread of all big cats.
+Lykoi,United States,The leopard is the most widespread of all big cats.
+Lykoi,United States,Fossil records from two million years ago show evidence of jaguars.
+LaPerm,United States,Fossil records from two million years ago show evidence of jaguars.
+LaPerm,United States,Cats make about 100 different sounds. Dogs make only about 10.
+Asian Semi-longhair,United Kingdom,Cats make about 100 different sounds. Dogs make only about 10.
+Asian Semi-longhair,United Kingdom,The Pilgrims were the first to introduce cats to North America.
+Oregon Rex,United States,The Pilgrims were the first to introduce cats to North America.
+Oregon Rex,United States,A cat can sprint at about thirty-one miles per hour.
+Maine Coon,United States,A cat can sprint at about thirty-one miles per hour.
+Maine Coon,United States,The leopard is the most widespread of all big cats.
+Brazilian Shorthair,Brazil,The leopard is the most widespread of all big cats.
+Brazilian Shorthair,Brazil,A cat's hearing is much more sensitive than humans and dogs.
+Mekong Bobtail,Russia,A cat's hearing is much more sensitive than humans and dogs.
+Mekong Bobtail,Russia,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Turkish Angora,Turkey,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Turkish Angora,Turkey,The cat has 500 skeletal muscles (humans have 650).
+Bambino,United States,The cat has 500 skeletal muscles (humans have 650).
+Bambino,United States,In 1987 cats overtook dogs as the number one pet in America.
+Chausie,France,In 1987 cats overtook dogs as the number one pet in America.
+Chausie,France,A cat will tremble or shiver when it is extreme pain.
+American Bobtail,United States,A cat will tremble or shiver when it is extreme pain.
+null,null,null
+American Bobtail,United States,The Pilgrims were the first to introduce cats to North America.
+Oriental Bicolor,,null
+Korn Ja,Thailand,The Pilgrims were the first to introduce cats to North America.
+Oriental Bicolor,,Normal body temperature for a cat is 102 degrees F.
+Exotic Shorthair,United States,Normal body temperature for a cat is 102 degrees F.
+Exotic Shorthair,United States,The average litter of kittens is between 2 - 6 kittens.
+Asian,developed in the United Kingdom (founding stock from Asia),The average litter of kittens is between 2 - 6 kittens.
+Asian,developed in the United Kingdom (founding stock from Asia),Tylenol and chocolate are both poisionous to cats.
+Asian,developed in the United Kingdom (founding stock from Asia),Tylenol and chocolate are both poisionous to cats.
+Asian,developed in the United Kingdom (founding stock from Asia),Many cats love having their forehead gently stroked.
+York Chocolate,United States (New York),Many cats love having their forehead gently stroked.
+York Chocolate,United States (New York),There are up to 60 million feral cats in the United States alone.
+Ragamuffin,United States,There are up to 60 million feral cats in the United States alone.
+Ragamuffin,United States,Baking chocolate is the most dangerous chocolate to your cat.
+Thai,Thailand,Baking chocolate is the most dangerous chocolate to your cat.
+Thai,Thailand,There are up to 60 million feral cats in the United States alone.
+Dragon Li,China,There are up to 60 million feral cats in the United States alone.
+Dragon Li,China,Owning a cat is actually proven to be beneficial for your health.
+Sokoke,Kenya,Owning a cat is actually proven to be beneficial for your health.
+Sokoke,Kenya,Cats' hearing is much more sensitive than humans and dogs.
+Chartreux,France,Cats' hearing is much more sensitive than humans and dogs.
+Chartreux,France,Ailurophile is the word cat lovers are officially called.
+Mekong Bobtail,Russia,Ailurophile is the word cat lovers are officially called.
+Mekong Bobtail,Russia,Kittens remain with their mother till the age of 9 weeks.
+Toyger,United States,Kittens remain with their mother till the age of 9 weeks.
+Toyger,United States,A cat lover is called an Ailurophilia (Greek: cat+lover).
+Ragdoll,United States,A cat lover is called an Ailurophilia (Greek: cat+lover).
+Ragdoll,United States,Cats' hearing is much more sensitive than humans and dogs.
+Serengeti,United States,Cats' hearing is much more sensitive than humans and dogs.
+Serengeti,United States,Today there are about 100 distinct breeds of the domestic cat.
+Chantilly-Tiffany,United States,Today there are about 100 distinct breeds of the domestic cat.
+Chantilly-Tiffany,United States,Cats only sweat through their paws and nowhere else on their body
+Asian Semi-longhair,United Kingdom,Cats only sweat through their paws and nowhere else on their body
+Asian Semi-longhair,United Kingdom,Cats spend nearly 1\/3 of their waking hours cleaning themselves.
+Korean Bobtail,Korea,Cats spend nearly 1\/3 of their waking hours cleaning themselves.
+Korean Bobtail,Korea,A cat can spend five or more hours a day grooming himself.
+Chartreux,France,A cat can spend five or more hours a day grooming himself.
+Chartreux,France,A cat's hearing is much more sensitive than humans and dogs.
+British Shorthair,United Kingdom,A cat's hearing is much more sensitive than humans and dogs.
+British Shorthair,United Kingdom,Cat bites are more likely to become infected than dog bites.
+Japanese Bobtail,Japan,Cat bites are more likely to become infected than dog bites.
+Japanese Bobtail,Japan,Cats have 300 million neurons; dogs have about 160 million
+Japanese Bobtail,Japan,Cats have 300 million neurons; dogs have about 160 million
+Japanese Bobtail,Japan,The Pilgrims were the first to introduce cats to North America.
+Cheetoh,United States,The Pilgrims were the first to introduce cats to North America.
+Cheetoh,United States,A cat will tremble or shiver when it is extreme pain.
+Bengal,developed in the United States (founding stock from Asia),A cat will tremble or shiver when it is extreme pain.
+Bengal,developed in the United States (founding stock from Asia),A cat's normal temperature varies around 101 degrees Fahrenheit.
+Cymric or Manx Longhair,United Kingdom (Isle of Man),A cat's normal temperature varies around 101 degrees Fahrenheit.
+Cymric or Manx Longhair,United Kingdom (Isle of Man),In 1987 cats overtook dogs as the number one pet in America.
+Japanese Bobtail,Japan,In 1987 cats overtook dogs as the number one pet in America.
+Japanese Bobtail,Japan,Cats bury their feces to cover their trails from predators.
+Japanese Bobtail,Japan,Cats bury their feces to cover their trails from predators.
+Japanese Bobtail,Japan,Cats have been domesticated for half as long as dogs have been.
+Serengeti,United States,Cats have been domesticated for half as long as dogs have been.
+Serengeti,United States,A cat lover is called an Ailurophilia (Greek: cat+lover).
+Balinese,developed in the United States (founding stock from Thailand),A cat lover is called an Ailurophilia (Greek: cat+lover).
+Balinese,developed in the United States (founding stock from Thailand),The average litter of kittens is between 2 - 6 kittens.
+Toyger,United States,The average litter of kittens is between 2 - 6 kittens.
+Toyger,United States,A cat's brain is more similar to a man's brain than that of a dog.
+Sphynx,Canada,A cat's brain is more similar to a man's brain than that of a dog.
+Sphynx,Canada,The Amur leopard is one of the most endangered animals in the world.
+Ukrainian Levkoy,Ukraine,The Amur leopard is one of the most endangered animals in the world.
+Ukrainian Levkoy,Ukraine,Cats have been domesticated for half as long as dogs have been.
+Savannah,United States,Cats have been domesticated for half as long as dogs have been.
+Savannah,United States,About 37% of American homes today have at least 1 cat.
+Javanese,United States,About 37% of American homes today have at least 1 cat.
+Javanese,United States,The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+Dragon Li,China,The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+Dragon Li,China,Kittens remain with their mother till the age of 9 weeks.
+Oriental Longhair,,Kittens remain with their mother till the age of 9 weeks.
+Oriental Longhair,,The average litter of kittens is between 2 - 6 kittens.
+Ojos Azules,United States,The average litter of kittens is between 2 - 6 kittens.
+Ojos Azules,United States,There are up to 60 million feral cats in the United States alone.
+Colorpoint Shorthair,,There are up to 60 million feral cats in the United States alone.
+Colorpoint Shorthair,,A cat's normal temperature varies around 101 degrees Fahrenheit.
+Cymric or Manx Longhair,United Kingdom (Isle of Man),A cat's normal temperature varies around 101 degrees Fahrenheit.
+Cymric or Manx Longhair,United Kingdom (Isle of Man),A cat can jump up to five times its own height in a single bound.
+Havana Brown,United Kingdom,A cat can jump up to five times its own height in a single bound.
+Havana Brown,United Kingdom,The cat has 500 skeletal muscles (humans have 650).
+Asian Semi-longhair,United Kingdom,The cat has 500 skeletal muscles (humans have 650).
+Asian Semi-longhair,United Kingdom,The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+PerFold\u00e6(Experimental Breed - WCF),"Unknown",The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+PerFold\u00e6(Experimental Breed - WCF),"Unknown",Tylenol and chocolate are both poisionous to cats.
+Turkish Angora,Turkey,Tylenol and chocolate are both poisionous to cats.
+Turkish Angora,Turkey,Cats bury their feces to cover their trails from predators.
+Brazilian Shorthair,Brazil,Cats bury their feces to cover their trails from predators.
+Brazilian Shorthair,Brazil,Florence Nightingale owned more than 60 cats in her lifetime.
+Napoleon,,Florence Nightingale owned more than 60 cats in her lifetime.
+Napoleon,,Fossil records from two million years ago show evidence of jaguars.
+Dragon Li,China,Fossil records from two million years ago show evidence of jaguars.
+Dragon Li,China,In 1987 cats overtook dogs as the number one pet in America.
+Somali,Somalia,In 1987 cats overtook dogs as the number one pet in America.
+Somali,Somalia,A cat can jump up to five times its own height in a single bound.
+Ocicat,United States,A cat can jump up to five times its own height in a single bound.
+Ocicat,United States,Tigers are excellent swimmers and do not avoid water.
+Cheetoh,United States,Tigers are excellent swimmers and do not avoid water.
+Cheetoh,United States,Many cats love having their forehead gently stroked.
+Cheetoh,United States,Many cats love having their forehead gently stroked.
+Cheetoh,United States,The cat has 500 skeletal muscles (humans have 650).
+Scottish Fold,United Kingdom (Scotland),The cat has 500 skeletal muscles (humans have 650).
+Scottish Fold,United Kingdom (Scotland),The leopard is the most widespread of all big cats.
+Tonkinese,Canada,The leopard is the most widespread of all big cats.
+Tonkinese,Canada,Florence Nightingale owned more than 60 cats in her lifetime.
+Nebelung,United States,Florence Nightingale owned more than 60 cats in her lifetime.
+Nebelung,United States,There are up to 60 million feral cats in the United States alone.
+Australian Mist,Australia,There are up to 60 million feral cats in the United States alone.
+Australian Mist,Australia,The cat's footpads absorb the shocks of the landing when the cat jumps.
+Siamese,Thailand,The cat's footpads absorb the shocks of the landing when the cat jumps.
+Siamese,Thailand,Cats' hearing is much more sensitive than humans and dogs.
+Cornish Rex,United Kingdom (England),Cats' hearing is much more sensitive than humans and dogs.
+Cornish Rex,United Kingdom (England),Today there are about 100 distinct breeds of the domestic cat.
+Tonkinese,Canada,Today there are about 100 distinct breeds of the domestic cat.
+Tonkinese,Canada,The leopard is the most widespread of all big cats.
+Dragon Li,China,The leopard is the most widespread of all big cats.
+Dragon Li,China,A healthy cat has a temperature between 38 and 39 degrees Celcius.
+Sam Sawet,Thailand,A healthy cat has a temperature between 38 and 39 degrees Celcius.
+Sam Sawet,Thailand,The Pilgrims were the first to introduce cats to North America.
+Snowshoe,United States,The Pilgrims were the first to introduce cats to North America.
+Snowshoe,United States,Fossil records from two million years ago show evidence of jaguars.
+Chausie,France,Fossil records from two million years ago show evidence of jaguars.
+Chausie,France,Neutering a cat extends its life span by two or three years.
+British Semi-longhair,United Kingdom,Neutering a cat extends its life span by two or three years.
+British Semi-longhair,United Kingdom,Florence Nightingale owned more than 60 cats in her lifetime.
+Devon Rex,United Kingdom (England),Florence Nightingale owned more than 60 cats in her lifetime.
+Devon Rex,United Kingdom (England),British cat owners spend roughly 550 million pounds yearly on cat food.
+Thai Lilac,Thailand,British cat owners spend roughly 550 million pounds yearly on cat food.
+Thai Lilac,Thailand,Cats see six times better in the dark and at night than humans.
+Thai Lilac,Thailand,Cats see six times better in the dark and at night than humans.
+Thai Lilac,Thailand,The leopard is the most widespread of all big cats.
+Munchkin,United States,The leopard is the most widespread of all big cats.
