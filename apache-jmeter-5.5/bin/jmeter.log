@@ -1,0 +1,149 @@
+2023-11-01 00:17:36,661 INFO o.a.j.u.JMeterUtils: Setting Locale to ru_RU
+2023-11-01 00:17:36,692 ERROR o.a.j.u.JMeterUtils: Could not find resources for 'ru_RU'
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: Version 5.5
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: java.version=1.8.0_391
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: os.name=Windows 10
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: os.arch=amd64
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: os.version=10.0
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: file.encoding=Cp1251
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: java.awt.headless=null
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: Max memory     =1900019712
+2023-11-01 00:17:36,692 INFO o.a.j.JMeter: Available Processors =4
+2023-11-01 00:17:36,708 INFO o.a.j.JMeter: Default Locale=русский (Россия)
+2023-11-01 00:17:36,708 INFO o.a.j.JMeter: JMeter  Locale=русский (Россия)
+2023-11-01 00:17:36,708 INFO o.a.j.JMeter: JMeterHome=D:\Docs\GitHub\TestTasts\apache-jmeter-5.5
+2023-11-01 00:17:36,708 INFO o.a.j.JMeter: user.dir  =D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\bin
+2023-11-01 00:17:36,708 INFO o.a.j.JMeter: PWD       =D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\bin
+2023-11-01 00:17:41,260 INFO o.a.j.JMeter: IP: 192.168.127.2 Name: Define FullName: Define
+2023-11-01 00:17:41,298 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-11-01 00:17:41,523 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-11-01 00:17:44,432 WARN o.j.r.PluginManagerMenuCreator: Was unable to install pmgr cmdline tool
+java.nio.file.NoSuchFileException: D:\Docs\GitHub\TestTasts\bin\PluginsManagerCMD.bat
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_391]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_391]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_391]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source) ~[?:1.8.0_391]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(Unknown Source) ~[?:1.8.0_391]
+	at java.nio.file.Files.newOutputStream(Unknown Source) ~[?:1.8.0_391]
+	at java.nio.file.Files.copy(Unknown Source) ~[?:1.8.0_391]
+	at org.jmeterplugins.repository.PluginManagerCMDInstaller.writeOut(PluginManagerCMDInstaller.java:24) ~[jmeter-plugins-manager-1.8.jar:?]
+	at org.jmeterplugins.repository.PluginManagerCMDInstaller.main(PluginManagerCMDInstaller.java:12) ~[jmeter-plugins-manager-1.8.jar:?]
+	at org.jmeterplugins.repository.PluginManagerMenuCreator.getMenuItemsAtLocation(PluginManagerMenuCreator.java:16) ~[jmeter-plugins-manager-1.8.jar:?]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.addPluginsMenuItems(JMeterMenuBar.java:595) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.makeOptionsMenu(JMeterMenuBar.java:342) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.createMenuBar(JMeterMenuBar.java:202) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.<init>(JMeterMenuBar.java:117) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.gui.MainFrame.init(MainFrame.java:515) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.gui.MainFrame.<init>(MainFrame.java:232) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.JMeterGuiLauncher.startGuiInternal(JMeterGuiLauncher.kt:115) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.JMeterGuiLauncher.access$startGuiInternal(JMeterGuiLauncher.kt:47) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.JMeterGuiLauncher$startGuiInternal$1.invokeSuspend(JMeterGuiLauncher.kt) ~[ApacheJMeter_core.jar:5.5]
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33) ~[kotlin-stdlib-1.6.21.jar:1.6.21-release-334(1.6.21)]
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106) ~[kotlinx-coroutines-core-jvm-1.6.1.jar:?]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventQueue.access$500(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_391]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_391]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.WaitDispatchSupport$2.run(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.WaitDispatchSupport$4.run(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.WaitDispatchSupport$4.run(Unknown Source) ~[?:1.8.0_391]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_391]
+	at java.awt.WaitDispatchSupport.enter(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.Dialog.show(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.Component.show(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.Component.setVisible(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.Window.setVisible(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.Dialog.setVisible(Unknown Source) ~[?:1.8.0_391]
+	at org.apache.jmeter.SplashScreen.lambda$showScreen$0(SplashScreen.java:95) ~[ApacheJMeter_core.jar:5.5]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventQueue.access$500(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_391]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_391]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) ~[?:1.8.0_391]
+	at java.awt.EventDispatchThread.run(Unknown Source) ~[?:1.8.0_391]
+2023-11-01 00:17:44,448 WARN o.j.r.PluginManager: Found JAR conflict: D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\jmeter-plugins-cmn-jmeter-0.6.jar and D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\jmeter-plugins-cmn-jmeter-0.4.jar
+2023-11-01 00:17:44,448 WARN o.j.r.PluginManager: Found JAR conflict: D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\jmeter-plugins-cmn-jmeter-0.7.jar and D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\jmeter-plugins-cmn-jmeter-0.6.jar
+2023-11-01 00:17:44,463 WARN o.j.r.PluginManager: Found JAR conflict: D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\ext\jmeter-plugins-manager-0.20.jar and D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\jmeter-plugins-manager-1.8.jar
+2023-11-01 00:17:44,463 WARN o.j.r.PluginManager: Found JAR conflict: D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\ext\jmeter-plugins-manager-1.3.jar and D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\ext\jmeter-plugins-manager-0.20.jar
+2023-11-01 00:17:44,463 WARN o.j.r.PluginManager: Found JAR conflict: D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\ext\jmeter-plugins-manager-1.4.jar and D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\ext\jmeter-plugins-manager-1.3.jar
+2023-11-01 00:17:44,463 WARN o.j.r.PluginManager: Found JAR conflict: D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\ext\jmeter-plugins-manager-1.6.jar and D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\ext\jmeter-plugins-manager-1.4.jar
+2023-11-01 00:17:44,463 WARN o.j.r.PluginManager: Found JAR conflict: D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\ext\jmeter-plugins-manager-1.9.jar and D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\lib\ext\jmeter-plugins-manager-1.6.jar
+2023-11-01 00:17:44,748 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_10-e0ff5a4d1fc4fc4ed5873c39799b7afd-gui
+2023-11-01 00:17:45,519 INFO o.a.h.i.c.DefaultHttpClient: I/O exception (java.net.SocketException) caught when connecting to {s}->https://jmeter-plugins.org:443: Connection reset by peer: socket write error
+2023-11-01 00:17:45,519 INFO o.a.h.i.c.DefaultHttpClient: Retrying connect to {s}->https://jmeter-plugins.org:443
+2023-11-01 00:17:45,682 WARN o.j.r.PluginManagerMenuItem: Failed to load plugin updates info
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method) ~[?:1.8.0_391]
+	at java.net.SocketOutputStream.socketWrite(Unknown Source) ~[?:1.8.0_391]
+	at java.net.SocketOutputStream.write(Unknown Source) ~[?:1.8.0_391]
+	at sun.security.ssl.SSLSocketOutputRecord.flush(Unknown Source) ~[?:1.8.0_391]
+	at sun.security.ssl.HandshakeOutStream.flush(Unknown Source) ~[?:1.8.0_391]
+	at sun.security.ssl.ClientHello$ClientHelloKickstartProducer.produce(Unknown Source) ~[?:1.8.0_391]
+	at sun.security.ssl.SSLHandshake.kickstart(Unknown Source) ~[?:1.8.0_391]
+	at sun.security.ssl.ClientHandshakeContext.kickstart(Unknown Source) ~[?:1.8.0_391]
+	at sun.security.ssl.TransportContext.kickstart(Unknown Source) ~[?:1.8.0_391]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source) ~[?:1.8.0_391]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source) ~[?:1.8.0_391]
+	at org.apache.http.conn.ssl.SSLSocketFactory.createLayeredSocket(SSLSocketFactory.java:570) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:554) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:415) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:326) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:605) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:440) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56) ~[httpclient-4.5.13.jar:4.5.13]
+	at org.jmeterplugins.repository.JARSourceHTTP.execute(JARSourceHTTP.java:499) ~[jmeter-plugins-manager-1.8.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.execute(JARSourceHTTP.java:494) ~[jmeter-plugins-manager-1.8.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getJSON(JARSourceHTTP.java:152) ~[jmeter-plugins-manager-1.8.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getRepositories(JARSourceHTTP.java:276) ~[jmeter-plugins-manager-1.8.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getRepo(JARSourceHTTP.java:304) ~[jmeter-plugins-manager-1.8.jar:?]
+	at org.jmeterplugins.repository.PluginManager.load(PluginManager.java:71) ~[jmeter-plugins-manager-1.8.jar:?]
+	at org.jmeterplugins.repository.PluginManagerMenuItem$1.run(PluginManagerMenuItem.java:38) ~[jmeter-plugins-manager-1.8.jar:?]
+2023-11-01 00:21:05,958 INFO o.a.j.s.FileServer: Default base='D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\bin'
+2023-11-01 00:21:05,958 INFO o.a.j.g.a.Load: Loading file: D:\Docs\проекты из дома\gazbur\GAZBUR_NEW.jmx
+2023-11-01 00:21:05,958 INFO o.a.j.s.FileServer: Set new base='D:\Docs\проекты из дома\gazbur'
+2023-11-01 00:21:06,074 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-11-01 00:21:06,120 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-11-01 00:21:06,120 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-11-01 00:21:06,136 INFO o.a.j.s.SaveService: Loading file: D:\Docs\проекты из дома\gazbur\GAZBUR_NEW.jmx
+2023-11-01 00:21:06,815 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2023-11-01 00:21:06,815 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-11-01 00:21:06,815 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-11-01 00:21:06,815 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-11-01 00:21:06,815 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-11-01 00:21:06,815 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-11-01 00:21:06,815 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-11-01 00:21:07,111 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2023-11-01 00:21:07,111 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\Docs\GitHub\TestTasts\apache-jmeter-5.5\bin\proxyserver.jks
+2023-11-01 00:21:07,813 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-11-01 00:21:07,813 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2023-11-01 00:21:07,813 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-11-01 00:21:07,813 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-11-01 00:21:10,914 INFO o.a.j.s.FileServer: Set new base='D:\Docs\проекты из дома\gazbur'
+2023-11-01 00:21:53,083 INFO o.a.j.g.a.Load: Loading file: D:\Docs\проекты из дома\gazbur\Gazbur_Scenario_TekTorg_StepTest_10%_Uch_and_Org.jmx
+2023-11-01 00:21:53,083 INFO o.a.j.s.FileServer: Set new base='D:\Docs\проекты из дома\gazbur'
+2023-11-01 00:21:53,083 INFO o.a.j.s.SaveService: Loading file: D:\Docs\проекты из дома\gazbur\Gazbur_Scenario_TekTorg_StepTest_10%_Uch_and_Org.jmx
+2023-11-01 00:21:55,119 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2023-11-01 00:21:55,119 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2023-11-01 00:22:01,242 INFO o.a.j.s.FileServer: Set new base='D:\Docs\проекты из дома\gazbur'
