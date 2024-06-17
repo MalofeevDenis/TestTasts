@@ -36,6 +36,9 @@ public class DemoApplication {
     @GetMapping(value = "/CreditRegistry_SPARK", produces = "multipart/form-data;charset=UTF-8")
     public ResponseEntity DS_05_50_Spark(HttpServletRequest request) {
         String rq = request.toString();
+        String soapAction=extract(rq,"soapAction=\"/","\">");
+        //для DS_05_50_Spark
+        if(soapAction.equals("CRDS")){
         String InquiryCode =extract(rq,"<InquiryCode>","</InquiryCode>");
         String ProcessCode = extract(rq,"<ProcessCode>","</ProcessCode>");
         String LayoutVersion = extract(rq,"<LayoutVersion>","</LayoutVersion>");
@@ -48,6 +51,7 @@ public class DemoApplication {
         Date date= new Date();
         String LONG_DATA = dateFormat.format(date);
         String ProcessVersion=extract(rq,"<ProcessVersion>","</ProcessVersion>");
+
 
         String main_response =("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
                 "<ConnectorOutput>\n" +
@@ -1885,6 +1889,36 @@ public class DemoApplication {
                 "</ConnectorOutput>").toString();
 
         return ResponseEntity.ok(main_response);
+        } else {//DS_05_51_Spark_GetCompanyStructure
+            String INN=extract(rq,"<con1:inn xmlns:con1=\"http://connector.xws.mbtc.ru\">","</con1:inn>");
+            String current_date=extract(rq,"<con1:dateOfReport xmlns:con1=\"http://connector.xws.mbtc.ru\">","T");
+            return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
+                    "<ConnectorOutput>\n" +
+                    "<Response>\n" +
+                    "<CompanyStructureReport>\n" +
+                    "<ResultInfo ResultType=\"True\" ExecutionTime=\"30\" />\n" +
+                    "<Data>\n" +
+                    "<Report>\n" +
+                    "<SparkID>6074001</SparkID>\n" +
+                    "<ShortName>АО \"БАШКИРСКОЕ МОЛОКО\"</ShortName>\n" +
+                    "<INN>"+INN+"</INN>\n" +
+                    "<OGRN>1070273004713</OGRN>\n" +
+                    "<OKPO>82047250</OKPO>\n" +
+                    "<OKATO>80401385000</OKATO>\n" +
+                    "<EGRPOIncluded>true</EGRPOIncluded>\n" +
+                    "<Status IsActing=\"true\" Code=\"24\" Text=\"Действующее\" GroupId=\"1\" GroupName=\"Действующее\" Date=\""+current_date+"\" />\n" +
+                    "</Report>\n" +
+                    "</Data>\n" +
+                    "</CompanyStructureReport>\n" +
+                    "<ResultMsg>\n" +
+                    "<ResultCode>1</ResultCode>\n" +
+                    "<ResultMessage>DONE. </ResultMessage>\n" +
+                    "</ResultMsg>\n" +
+                    "</Response>\n" +
+                    "</ConnectorOutput>");
+
+        }
+
     }
 
     @GetMapping(value = "/Process/Business/Consumer/version10/mi_so_ABS_CLIENT_Acc_Req", produces = "multipart/form-data;charset=UTF-8")
@@ -2169,7 +2203,7 @@ public class DemoApplication {
     }
 
     @GetMapping(value = "/Get_CreditHistory", produces = "multipart/form-data;charset=UTF-8")//в комментариях приписка "плохой"
-    public ResponseEntity DS_02_05_ExternalCH(HttpServletRequest request){
+    public ResponseEntity DS_02_05_ExternalCH(HttpServletRequest request){ //тут же и DS_06_10_NationalHunterAndFPS
         return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
                 "<ConnectorOutput>\n" +
                     "<ResultMsg>\n" +
@@ -3216,49 +3250,9 @@ public class DemoApplication {
     }
 
 
-    @GetMapping(value = "/CreditRegistry_SPARK", produces = "multipart/form-data;charset=UTF-8")
-    public ResponseEntity DS_05_51_Spark_GetCompanyStructure(HttpServletRequest request){
-        String rq=request.toString();
-        String INN=extract(rq,"<con1:inn xmlns:con1=\"http://connector.xws.mbtc.ru\">","</con1:inn>");
-        String current_date=extract(rq,"<con1:dateOfReport xmlns:con1=\"http://connector.xws.mbtc.ru\">","T");
-        return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
-                "<ConnectorOutput>\n" +
-                   "<Response>\n" +
-                        "<CompanyStructureReport>\n" +
-                            "<ResultInfo ResultType=\"True\" ExecutionTime=\"30\" />\n" +
-                            "<Data>\n" +
-                                "<Report>\n" +
-                                    "<SparkID>6074001</SparkID>\n" +
-                                    "<ShortName>АО \"БАШКИРСКОЕ МОЛОКО\"</ShortName>\n" +
-                                    "<INN>"+INN+"</INN>\n" +
-                                    "<OGRN>1070273004713</OGRN>\n" +
-                                    "<OKPO>82047250</OKPO>\n" +
-                                    "<OKATO>80401385000</OKATO>\n" +
-                                    "<EGRPOIncluded>true</EGRPOIncluded>\n" +
-                                    "<Status IsActing=\"true\" Code=\"24\" Text=\"Действующее\" GroupId=\"1\" GroupName=\"Действующее\" Date=\""+current_date+"\" />\n" +
-                                "</Report>\n" +
-                            "</Data>\n" +
-                        "</CompanyStructureReport>\n" +
-                        "<ResultMsg>\n" +
-                            "<ResultCode>1</ResultCode>\n" +
-                            "<ResultMessage>DONE. </ResultMessage>\n" +
-                        "</ResultMsg>\n" +
-                    "</Response>\n" +
-                "</ConnectorOutput>");
-    }
 
-    @GetMapping(value = "/Get_CreditHistory", produces = "multipart/form-data;charset=UTF-8")
-    public ResponseEntity DS_06_10_NationalHunterAndFPS(HttpServletRequest request){
 
-        return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
-                "<ConnectorOutput>\n" +
-                    "<ResultMsg>\n" +
-                        "<ResultCode>1</ResultCode>\n" +
-                        "<ResultMessage />\n" +
-                    "</ResultMsg>\n" +
-                "</ConnectorOutput>");
 
-    }
 
     @GetMapping(value = "/CreditRegistry_GetStopList_IPOTEKA", produces = "multipart/form-data;charset=UTF-8")
     public ResponseEntity DS_06_20_StopList(HttpServletRequest request){
@@ -3318,10 +3312,12 @@ public class DemoApplication {
     }
 
     @GetMapping(value = "/WebServices/WsExternalCalendar.asmx", produces = "multipart/form-data;charset=UTF-8")
-    public ResponseEntity DS_09_10_ExternalCalendar(HttpServletRequest request){
+    public ResponseEntity DS_09_10_ExternalCalendar(HttpServletRequest request){ //здесь же и DS_12_10_ExternalCalendar
 
         String InputDateTime=extract(request.toString(),"InputDateTime=\"","\" Update_Cancel_TimeOut");
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
+        String rq=request.toString();
+        String soapAction=extract(rq,"soapAction=\"http://tempuri.org/","\">");
         Date date;
         try {
             date = formatter.parse(InputDateTime);
@@ -3336,23 +3332,23 @@ public class DemoApplication {
         cal.add(Calendar.DATE, 60);
         Date dateWith60Days = cal.getTime();
         String date60= formatter.format(dateWith60Days);
+
+        if (soapAction.equals("GetTimeoutInConcordanceWithExternalCalendarData_WithCancel")){
         return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
                 "<ConnectorOutput>\n" +
                     "<GetTimeoutInConcordanceWithExternalCalendarData_WithCancelResponse>\n" +
                         "<ExternalCalendarOutputType WebUI_Id=\"CRDS_7100\" Cancel_TimeOut=\""+date60+"\" Exit_TimeOut=\""+date5+"\" Current_TimeOut=\""+date5+"\" Update_Cancel_TimeOut=\"0\" Type_Of_TimeOut=\"E\" />\n" +
                     "</GetTimeoutInConcordanceWithExternalCalendarData_WithCancelResponse>\n" +
-                "</ConnectorOutput>");
+                "</ConnectorOutput>");} else{ //DS_12_10_ExternalCalendar
 
-    }
-    @GetMapping(value = "/WebServices/WsExternalCalendar.asmx", produces = "multipart/form-data;charset=UTF-8")
-    public ResponseEntity DS_12_10_ExternalCalendar(HttpServletRequest request){
-
-        return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
-                "<ConnectorOutput>\n" +
+            return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
+                    "<ConnectorOutput>\n" +
                     "<GetIsWorkDayFlagFromExternalCalendarDataResponse>\n" +
-                        "<GetIsWorkDayFlagFromExternalCalendarDataResult IsWorkDay=\"1\" />\n" +
+                    "<GetIsWorkDayFlagFromExternalCalendarDataResult IsWorkDay=\"1\" />\n" +
                     "</GetIsWorkDayFlagFromExternalCalendarDataResponse>\n" +
-                "</ConnectorOutput>");
+                    "</ConnectorOutput>");
+
+        }
 
     }
 
@@ -3620,25 +3616,53 @@ public class DemoApplication {
     }
 
     @GetMapping(value = "/mi_so_ABS_Acc_Req", produces = "multipart/form-data;charset=UTF-8")
-    public ResponseEntity DS_36_15_CallAutoABSAcc(HttpServletRequest request){
+    public ResponseEntity DS_36_15_CallAutoABSAcc(HttpServletRequest request){ //здесь же и DS_944_30_CalcPSKInABS
         String rq=request.toString();
         String Application_ID=extract(rq,"<Application_ID>","</Application_ID>");
-        return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
-                "<ConnectorOutput>\n" +
+        String configId=extract(rq,"configId=\"","\" soapAction");
+
+        if (configId.equals("_absAutoAccOpen")) {
+
+            return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
+                    "<ConnectorOutput>\n" +
                     "<ABS_Accounts_Opening_Response>\n" +
-                        "<ProcessID>CREDIT_CARDS</ProcessID>\n" +
-                        "<ProcessName>CREDIT_CARDS</ProcessName>\n" +
-                        "<ABS_Accounts_Opening_Response>\n" +
-                            "<Application_ID>"+Application_ID+"</Application_ID>\n" +
-                            "<Request_ID>921271451521</Request_ID>\n" +
-                            "<ABSAvailabilityFlag>1</ABSAvailabilityFlag>\n" +
-                        "</ABS_Accounts_Opening_Response>\n" +
-                        "<ResultMsg>\n" +
-                            "<ResultCode>1</ResultCode>\n" +
-                            "<ResultMessage>Success</ResultMessage>\n" +
-                        "</ResultMsg>\n" +
+                    "<ProcessID>CREDIT_CARDS</ProcessID>\n" +
+                    "<ProcessName>CREDIT_CARDS</ProcessName>\n" +
+                    "<ABS_Accounts_Opening_Response>\n" +
+                    "<Application_ID>" + Application_ID + "</Application_ID>\n" +
+                    "<Request_ID>921271451521</Request_ID>\n" +
+                    "<ABSAvailabilityFlag>1</ABSAvailabilityFlag>\n" +
                     "</ABS_Accounts_Opening_Response>\n" +
-                "</ConnectorOutput>");
+                    "<ResultMsg>\n" +
+                    "<ResultCode>1</ResultCode>\n" +
+                    "<ResultMessage>Success</ResultMessage>\n" +
+                    "</ResultMsg>\n" +
+                    "</ABS_Accounts_Opening_Response>\n" +
+                    "</ConnectorOutput>");
+
+        } else {//DS_944_30_CalcPSKInABS
+
+            return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
+                    "<ConnectorOutput>\n" +
+                    "<ABS_Accounts_Opening_Response>\n" +
+                    "<ProcessID>CREDIT_CARDS</ProcessID>\n" +
+                    "<ProcessName>CREDIT_CARDS</ProcessName>\n" +
+                    "<PSKOutput>\n" +
+                    "<Request_ID>" + Application_ID + "</Request_ID>\n" +
+                    "<Disbursed_Credit_Amount>0</Disbursed_Credit_Amount>\n" +
+                    "<PSK_Int>39.860</PSK_Int>\n" +
+                    "<PSK_Sum>86818.94</PSK_Sum>\n" +
+                    "<Max_PSK>80</Max_PSK>\n" +
+                    "<PSK_Excess>0</PSK_Excess>\n" +
+                    "</PSKOutput>\n" +
+                    "<ResultMsg>\n" +
+                    "<ResultCode>1</ResultCode>\n" +
+                    "<ResultMessage>Success</ResultMessage>\n" +
+                    "</ResultMsg>\n" +
+                    "</ABS_Accounts_Opening_Response>\n" +
+                    "</ConnectorOutput>");
+
+        }
     }
 
 
@@ -3752,32 +3776,6 @@ public class DemoApplication {
                 "</ConnectorOutput>");
     }
 
-    @GetMapping(value = "/mi_so_ABS_Acc_Req2", produces = "multipart/form-data;charset=UTF-8")
-    public ResponseEntity DS_944_30_CalcPSKInABS(HttpServletRequest request) {
-
-        String rq = request.toString();
-        String Request_ID = extract(rq, "<Application_ID>", "</Application_ID>");
-
-        return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
-                "<ConnectorOutput>\n" +
-                "<ABS_Accounts_Opening_Response>\n" +
-                "<ProcessID>CREDIT_CARDS</ProcessID>\n" +
-                "<ProcessName>CREDIT_CARDS</ProcessName>\n" +
-                "<PSKOutput>\n" +
-                "<Request_ID>" + Request_ID + "</Request_ID>\n" +
-                "<Disbursed_Credit_Amount>0</Disbursed_Credit_Amount>\n" +
-                "<PSK_Int>39.860</PSK_Int>\n" +
-                "<PSK_Sum>86818.94</PSK_Sum>\n" +
-                "<Max_PSK>80</Max_PSK>\n" +
-                "<PSK_Excess>0</PSK_Excess>\n" +
-                "</PSKOutput>\n" +
-                "<ResultMsg>\n" +
-                "<ResultCode>1</ResultCode>\n" +
-                "<ResultMessage>Success</ResultMessage>\n" +
-                "</ResultMsg>\n" +
-                "</ABS_Accounts_Opening_Response>\n" +
-                "</ConnectorOutput>");
-    }
 
 }
 
