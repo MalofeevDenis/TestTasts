@@ -3752,7 +3752,7 @@ public class DemoApplication {
                 "</ConnectorOutput>");
     }
 
-    @GetMapping(value = "/mi_so_ABS_Acc_Req", produces = "multipart/form-data;charset=UTF-8")
+    @GetMapping(value = "/mi_so_ABS_Acc_Req2", produces = "multipart/form-data;charset=UTF-8")
     public ResponseEntity DS_944_30_CalcPSKInABS(HttpServletRequest request) {
 
         String rq = request.toString();
