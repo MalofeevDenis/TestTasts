@@ -2244,7 +2244,7 @@ public class DemoApplication {
     public ResponseEntity DS_02_45_GetPFRHistoryInfo(HttpServletRequest request){
 
         return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n" +
-                                        "<ConnectorOutput />");
+                                        "<ConnectorOutput/>");
 
 
         }
