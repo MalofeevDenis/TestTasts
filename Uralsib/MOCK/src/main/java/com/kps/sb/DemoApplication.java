@@ -1932,7 +1932,6 @@ public class DemoApplication {
         String IssueDate=extract(rq,"<Date_of_Cert>","</Date_of_Cert>");
 
 
-
         String main_response=("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
                 "<ConnectorOutput>\n" +
                   "<ABS_CLIENT_Response>\n" +
@@ -2244,24 +2243,11 @@ public class DemoApplication {
     @GetMapping(value = "/ru/CrifServices.asmx", produces = "multipart/form-data;charset=UTF-8")//уточнить корректность
     public ResponseEntity DS_02_45_GetPFRHistoryInfo(HttpServletRequest request){
 
-        return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
-                "<ConnectorInput configId=\"_clientPFR\" soapAction=\"http://interlayer.bankuralsib.ru/crifservices/GetPFRClientData\">\n" +
-                    "<GetPFRClientData PE=\"abf6f729-27ce-11ef-b9e9-005056bddd7c\">\n" +
-                        "<ApplicantList>\n" +
-                            "<Subject>\n" +
-                                "<SubjectID>476844900</SubjectID>\n" +
-                                "<Firstname>ЛЕЙСЯН</Firstname>\n" +
-                                "<Lastname>ТАГИРОВА</Lastname>\n" +
-                                "<Surname>РАЛИФОВНА</Surname>\n" +
-                                "<BirthDate>1982-06-22</BirthDate>\n" +
-                                "<InsNumber />\n" +
-                            "</Subject>\n" +
-                        "</ApplicantList>\n" +
-                    "</GetPFRClientData>\n" +
-                "</ConnectorInput>");
+        return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n" +
+                                        "<ConnectorOutput />");
 
 
-    }
+        }
     @GetMapping(value = "/CRDS", produces = "multipart/form-data;charset=UTF-8")
     public ResponseEntity DS_03_10_S1_PCM_TIBCO(HttpServletRequest request){
             String rq=request.toString();
