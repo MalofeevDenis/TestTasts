@@ -3235,11 +3235,6 @@ public class DemoApplication {
         return ResponseEntity.ok(main_response);
     }
 
-
-
-
-
-
     @GetMapping(value = "/CreditRegistry_GetStopList_IPOTEKA", produces = "multipart/form-data;charset=UTF-8")
     public ResponseEntity DS_06_20_StopList(HttpServletRequest request){
         return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
@@ -3561,7 +3556,7 @@ public class DemoApplication {
     }
 
     @GetMapping(value = "/Processes/Bussiness/crif_retail_card_new", produces = "multipart/form-data;charset=UTF-8")
-    public ResponseEntity DDS_28_05_GetBranchID(HttpServletRequest request){
+    public ResponseEntity DS_28_05_GetBranchID(HttpServletRequest request){
 
         return ResponseEntity.ok("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
                 "<ConnectorOutput>\n" +
